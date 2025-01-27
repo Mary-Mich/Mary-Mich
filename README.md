@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mary-Mich
-- 👀 I’m interested in .ai ..
+- 👀 I’m interested in . ..
 - 🌱 I’m currently learning .web development..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ..projets.
+- 📫 How to reach me .emails messages..
 - 😄 Pronouns: .Mary Michelle..
-- ⚡ Fun fact: ..musique.
+- ⚡ Fun fact: .nothing now.
 
 <!---
 Mary-Mich/Mary-Mich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
