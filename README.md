@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mary-Mich
-- 👀 I’m interested in . ..
-- 🌱 I’m currently learning .web development..
+- 👀 I’m interested in .cyber security ..
+- 🌱 I’m currently learning .web development,data scientist,AI..
 - 💞️ I’m looking to collaborate on ..projets.
 - 📫 How to reach me .emails messages..
 - 😄 Pronouns: .Mary Michelle..
